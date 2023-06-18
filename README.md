@@ -8,17 +8,20 @@ The project aims to create a Task Management application. It includes functional
 Technologies Used
 
 The project utilizes the following technologies:
+
 •	Backend:
+
 o	PHP: A server-side scripting language used for handling backend logic.
 o	MySQL: A relational database management system used for storing and managing data.
 
 •	Frontend:
+
 o	React: A JavaScript library for building user interfaces.
 o	Redux: A predictable state container for managing the application's state.
 o	HTML and CSS: Markup and styling languages for creating the user interface.
 o	FontAwesome: A library of icons used for visual representation.
 
- Backend Structure
+Backend Structure
 
 The backend is developed using PHP and follows the MVC (Model-View-Controller) architectural pattern. The project structure consists of the following components:
 
